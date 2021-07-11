@@ -1,0 +1,50 @@
+body{
+  
+ 
+
+    background:black;
+    margin: 0;
+    background-size: cover;
+    background-position: center;
+
+        
+    }
+    .bg{
+        background-color: rgba(233, 216, 216, 0.836);
+    }
+    .text-size{
+     min-width: 30%;
+     min-height:100px;
+    padding:10px;
+    max-height: auto;
+    max-width:auto;
+    
+    margin-right:5%;
+    margin-bottom: 5%;
+    background-color:rgb(56, 5, 5);
+    }
+    
+    h2 {
+    color:rgb(222, 211, 231);
+    background-color:rgb(7, 2, 6);
+    box-shadow: 1px 1px  rgb(202, 221, 202);
+    }
+    span{
+    background-color:rgba(44, 160, 238, 0.4);
+    }
+    
+    .container {
+     z-index:20;
+     margin:50px;
+     padding-bottom: 10px;
+     padding-top:10px;
+     box-shadow: 2px 2px 2px 2px rgba(1, 27, 1, 0.6);
+     background-color:black(38, 128, 189,0.5);
+    }
+    
+    #hello {
+    z-index:50;
+    color:rgb(19, 3, 3);
+    position: absolute;
+    }
+    
